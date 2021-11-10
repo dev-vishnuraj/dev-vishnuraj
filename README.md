@@ -88,32 +88,6 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/vishnuraj-neoito/github-readme-stats"><img alt="Vishnu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnuraj-neoito&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuraj-neoito&show_icons=true&locale=en&layout=compact&theme=algolia" alt="vishnuraj-neoito" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/vishnuraj-neoito"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishnuraj-neoito&custom_title=Vishnu%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
 ## 🙋‍♂️ Connect with me on!
 <p align="center">
   <a href="https://www.linkedin.com/in/vishnu-raj-6762b81a2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
