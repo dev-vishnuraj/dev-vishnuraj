@@ -90,9 +90,9 @@
 
 ## 🙋‍♂️ Connect with me on!
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-raj-6762b81a2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:vishnurajcl@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/vishnuraj-neoito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vishnu-raj-6762b81a2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
+	<a href="mailto:vishnurajcl@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" target="_blank"/></a>
+	<a href="https://github.com/vishnuraj-neoito"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank"/></a>
 	
 </p>
 
