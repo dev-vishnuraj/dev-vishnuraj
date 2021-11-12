@@ -8,10 +8,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnuraj-neoito&label=Profile%20views&color=0e75b6&style=plastic" alt="vishnuraj-neoito" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuraj-neoito&theme=algolia" alt="vishnuraj-neoito"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
