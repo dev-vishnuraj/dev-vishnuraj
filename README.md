@@ -1,10 +1,17 @@
-
 <h1 align="center">Hey , Vishnu here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SSE%20|%20Tech%20Lead%20|%20DB+Architect%20;Python%20|%20Javascript%20|%20AWS%20|%20PostgreSQL%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SSE%20|%20Tech%20Lead%20|%20DB+Architect%20;Python%20|%20NodeJS%20|%20AWS%20|%20PostgreSQL%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a passionate Software Engineer with 4+ years of hands-on experience with various tech stacks. Coding is my passion. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Senior Full-Stack Engineer with an architecture-driven mindset, focused on designing and building scalable, production-ready software systems. With 5+ years of freelance and professional experience, I take ownership of solutions end-to-end—from system design and technology decisions to implementation, deployment, and long-term optimization.
+
+I have led and architected large-scale platforms serving 60M+ users, working across web, mobile, backend, databases, and cloud infrastructure. My primary stack includes Node.js and Python for backend development, PostgreSQL for data modeling and performance-critical workloads, and AWS for cloud-native infrastructure and deployments. I design and implement microservices-based architectures, scalable APIs, and resilient systems built for high availability and growth.
+
+My strengths span full-stack development, system architecture, cloud infrastructure, database engineering, and AI-driven automation. I emphasize clean architecture, performance, security, and maintainability, ensuring systems scale reliably as product and user demands evolve.
+
+I collaborate closely with founders, product teams, and stakeholders, often acting as a technical bridge between vision and execution. I value ownership, clear communication, and engineering best practices, and I enjoy mentoring teams and setting technical standards that support long-term success.
+
+I am driven by building meaningful products, architecting systems thoughtfully, and delivering technology that creates real business impact.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-vishnuraj&label=Profile%20views&color=0e75b6&style=plastic" alt="dev-vishnuraj" /> </p>
 
@@ -19,7 +26,7 @@
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
 </p>
 
